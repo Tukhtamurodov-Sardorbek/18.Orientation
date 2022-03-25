@@ -24,4 +24,3 @@
 | Last Page |
 |----------------|
 | ![Last Page](assets/readme/7_page.png) |
-
